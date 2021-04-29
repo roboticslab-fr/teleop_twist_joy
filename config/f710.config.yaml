@@ -1,0 +1,10 @@
+# Logitech Extreme 3D Pro
+axis_linear: 1  # Forward/Back
+scale_linear: 0.2
+scale_linear_turbo: 1.5
+
+axis_angular: 2  # Twist
+scale_angular: 1.5
+
+enable_button: 4  # Trigger
+enable_turbo_button: 1  # Button 2 aka thumb button
