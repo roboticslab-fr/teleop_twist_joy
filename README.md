@@ -10,6 +10,8 @@ Simple joystick teleop for twist robots. See [ROS Wiki](http://wiki.ros.org/tele
 
 Dead man button = LB
 
+More infos in the [Logitech F710 HowTo Memo](https://github.com/roboticslab-fr/teleop_twist_joy/blob/indigo-devel/documentation/Logitech-F710-Pad_HowTo.pdf)
+
 ### Launch joystick
 
     $ roslaunch teleop_twist_joy teleop.launch joy_config:="f710"
