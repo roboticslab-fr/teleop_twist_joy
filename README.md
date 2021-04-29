@@ -13,6 +13,9 @@ Dead man button = LB
 ### Launch joystick
 
     $ roslaunch teleop_twist_joy teleop.launch joy_config:="f710"
+OR
+
+    $ roslaunch teleop_twist_joy logitech.launch
 
 ### Useful command to DEBUG
     $ sudo chmod a+rw /dev/input/js0
